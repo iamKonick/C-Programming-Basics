@@ -1,6 +1,5 @@
 /**
- * C program to display all odd numbers between 1 to n without using if statement
- */
+ * C program to display all odd numbers between 1 to 10
 
 #include <stdio.h>
 
